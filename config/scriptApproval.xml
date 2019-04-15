@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<scriptApproval plugin="script-security@1.43">
+  <approvedScriptHashes>
+    <string>0636845196f2779d4bcdeac1e3fa4e38e0c88167</string>
+    <string>39ef989e5d3754b28bffa4ae8211a77eb1bd857b</string>
+    <string>5e64541dd5811af1da6df21c899ee45fc0416d86</string>
+    <string>608905e18e8f9719091a74ca23b2f09ae7c52715</string>
+    <string>684687480040a13bd5352c5013fd5490fdb62756</string>
+    <string>805dc840fcca83b5c15fec9bbe115dac627d3fdc</string>
+    <string>86aef95721484a5094badc279be40c31e47cb50d</string>
+    <string>9bd6ab2c2bf379f6ad7ffb8bb2f6829a8325e92d</string>
+    <string>a3211dc9b2f89a0a6d0db06a20a46aa4f6de7d64</string>
+    <string>bddb3124a6ad786f349bb41fcdf17eb5c08730cc</string>
+    <string>e72c8294b3391628b5bc1f9977fa5779e987e534</string>
+    <string>ecde7235946d97d6fc701d5bd636926fd228e674</string>
+    <string>f71cd6477a79f930837340e03ee291dd3e9a5f4d</string>
+  </approvedScriptHashes>
+  <approvedSignatures>
+    <string>method hudson.FilePath copyFrom hudson.FilePath</string>
+    <string>method hudson.FilePath delete</string>
+    <string>method org.thoughtslive.jenkins.plugins.jira.api.ResponseData getData</string>
+    <string>new hudson.FilePath java.io.File</string>
+    <string>new java.io.File java.lang.String</string>
+    <string>staticMethod groovy.util.Eval me java.lang.String</string>
+    <string>staticMethod org.codehaus.groovy.runtime.DefaultGroovyMethods minus java.lang.String java.lang.Object</string>
+    <string>staticMethod org.codehaus.groovy.runtime.DefaultGroovyMethods times java.lang.Number groovy.lang.Closure</string>
+  </approvedSignatures>
+  <aclApprovedSignatures/>
+  <approvedClasspathEntries/>
+  <pendingScripts/>
+  <pendingSignatures/>
+  <pendingClasspathEntries/>
+</scriptApproval>
